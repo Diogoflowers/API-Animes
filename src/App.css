@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    background: linear-gradient(rgba(0, 0, 0, 0.897), rgba(0, 0, 0, 0.753)), url(imagens/FsMcC5jaQAEHfmN.webp);
+    background-size: cover;
+    gap: 30px;
+}
+
+
